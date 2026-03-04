@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_foreground
+drawable ic_logo_raster
+mipmap ic_launcher
+style Theme.App.Starting
+style Theme.UDWALL
