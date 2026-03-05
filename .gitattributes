@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ignore all Java files from the language stats
+*.java linguist-detectable=false
+
+# If you have specific folders that are auto-generated, ignore them too
+build/* linguist-vendored
+app/build/* linguist-vendored
